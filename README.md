@@ -108,6 +108,8 @@ The following community packages provide additional custom input types that you 
 * [comerc:autoform-typeahead](https://atmospherejs.com/comerc/autoform-typeahead)
 * [comerc:autoform-contenteditable2](https://atmospherejs.com/comerc/autoform-contenteditable2)
 * [meteoric:autoform-ionic](https://github.com/meteoric/autoform-ionic)
+* [lukemadera:autoform-googleplace](https://atmospherejs.com/lukemadera/autoform-googleplace)
+* [lukemadera:autoform-pikaday](https://atmospherejs.com/lukemadera/autoform-pikaday)
 
 The following community packages provide other add-on features related to autoform:
 
@@ -116,6 +118,7 @@ The following community packages provide other add-on features related to autofo
 * [yogiben:autoform-modals](https://atmospherejs.com/yogiben/autoform-modals) provides autoform bootstrap modals to insert, update, remove docs from collections.
 * [jameslefrere:autoform-semantic-ui](https://atmospherejs.com/jameslefrere/autoform-semantic-ui) provides a Semantic UI theme for autoform.
 * [comerc:autoform-fixtures](https://github.com/comerc/meteor-autoform-fixtures/) provides fixtures data for Collection2.
+* [kaoskeya:admin](https://atmospherejs.com/kaoskeya/admin) provides autoform based admin panel that integrates with your existing bootstrap design.
 
 ## Demo
 
